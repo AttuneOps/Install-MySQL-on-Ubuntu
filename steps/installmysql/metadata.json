@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "a7e2712e-da88-4eb2-a645-e9c048acc7ed", 
+    "interpreter": 1, 
+    "key": "installmysql", 
+    "name": "Install MySQL", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

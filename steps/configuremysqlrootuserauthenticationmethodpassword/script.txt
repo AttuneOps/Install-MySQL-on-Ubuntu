@@ -1,0 +1,3 @@
+sudo mysql << EOM
+    ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '{mysqlRootUser.pw}';
+EOM

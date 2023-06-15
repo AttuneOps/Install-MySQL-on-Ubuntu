@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "8b3d09b5-aaf8-49c3-906a-f3d31587f5c3", 
+    "interpreter": 1, 
+    "key": "startthemysqlservice", 
+    "name": "Start the MySQL Service", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

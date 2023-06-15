@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "b9625828-e9fe-4e26-932d-0711f918230e", 
+    "interpreter": 1, 
+    "key": "grantmysqluserallprivileges", 
+    "name": "Grant MySQL User All Privileges", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

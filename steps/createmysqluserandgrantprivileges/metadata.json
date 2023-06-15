@@ -1,0 +1,27 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "038dda0e-4351-47d0-8b7d-b2d9aaa64c7f", 
+    "isBlueprint": false, 
+    "key": "createmysqluserandgrantprivileges", 
+    "links": [
+        {
+            "order": 50, 
+            "stepKey": "createmysqluser"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "grantmysqluserallprivileges"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "flushprivilegesmysql"
+        }, 
+        {
+            "order": 200, 
+            "stepKey": "testmysqlandcheckversion"
+        }
+    ], 
+    "name": "Create MySQL User and Grant Privileges", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

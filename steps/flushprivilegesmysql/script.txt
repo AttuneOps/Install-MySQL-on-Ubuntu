@@ -1,0 +1,3 @@
+sudo mysql << EOM
+FLUSH PRIVILEGES;
+EOM

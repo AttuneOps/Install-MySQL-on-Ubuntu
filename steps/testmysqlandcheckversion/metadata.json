@@ -1,0 +1,12 @@
+{
+    "enabled": true, 
+    "externalUuid4": "074b4815-23a6-413a-9ac3-817ab5de0f76", 
+    "interpreter": 1, 
+    "key": "testmysqlandcheckversion", 
+    "name": "Test MySQL and Check Version", 
+    "osCredKey": "ubuntuuser", 
+    "promptResponses": "Enter password:==={mysqlUser.pw}", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"
+}

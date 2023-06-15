@@ -1,0 +1,12 @@
+{
+    "enabled": true, 
+    "externalUuid4": "f8a7019d-0c4f-49ae-a762-7e68fa7cc639", 
+    "interpreter": 1, 
+    "key": "configuremysqlrootuserauthenticationmethodtodefault", 
+    "name": "Configure MySQL root user Authentication Method to default", 
+    "osCredKey": "ubuntuuser", 
+    "promptResponses": "Enter password:==={mysqlRootUser.pw}", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"
+}

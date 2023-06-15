@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "cc7ccf3d-efd3-4a0a-8566-08e4db24b09a", 
+    "isBlueprint": false, 
+    "key": "configuringmysql", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "configuremysqlrootuserauthenticationmethodpassword"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "runthemysqlsecurityscript"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "configuremysqlrootuserauthenticationmethodtodefault"
+        }
+    ], 
+    "name": "Configuring MySQL", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

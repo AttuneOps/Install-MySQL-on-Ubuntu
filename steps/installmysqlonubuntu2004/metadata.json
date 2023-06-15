@@ -1,0 +1,27 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "323cef9c-c18e-4cc1-9d2c-ae71f859c93b", 
+    "isBlueprint": true, 
+    "key": "installmysqlonubuntu2004", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "installmysql"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "startthemysqlservice"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "configuringmysql"
+        }, 
+        {
+            "order": 150, 
+            "stepKey": "createmysqluserandgrantprivileges"
+        }
+    ], 
+    "name": "Install MySQL on Ubuntu 20.04", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

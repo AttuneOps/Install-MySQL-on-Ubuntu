@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "9817dfa3-f2ca-4ea8-a1ef-694de1dbfd7c", 
+    "interpreter": 1, 
+    "key": "createmysqluser", 
+    "name": "Create MySQL User", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

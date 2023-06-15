@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "72a2490a-67fc-46ae-a8ee-3ffd0fa6e83d", 
+    "key": "mysqluser", 
+    "name": "MySQL User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.OsCred"
+}

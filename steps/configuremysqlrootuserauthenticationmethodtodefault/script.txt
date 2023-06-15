@@ -1,0 +1,3 @@
+sudo mysql << EOM
+    ALTER USER 'root'@'localhost' IDENTIFIED WITH auth_socket;
+EOM

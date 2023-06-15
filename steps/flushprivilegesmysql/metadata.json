@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "0f0db1f5-54ed-498d-b4c5-815980684e6e", 
+    "interpreter": 1, 
+    "key": "flushprivilegesmysql", 
+    "name": "Flush Privileges MySQL", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

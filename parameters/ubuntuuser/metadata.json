@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "735c2746-e0e5-4158-b634-be810fed7967", 
+    "key": "ubuntuuser", 
+    "name": "Ubuntu User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}

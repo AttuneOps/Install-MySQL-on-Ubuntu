@@ -1,0 +1,3 @@
+sudo mysql << EOM
+GRANT ALL PRIVILEGES ON *.* TO '{mysqlUser.user}'@'localhost' WITH GRANT OPTION;
+EOM
