@@ -88,6 +88,7 @@ to support the development of your future websites or applications.
 | MySQL root User | Basic Credential | `mysqlrootuser` |  |
 | MySQL User | Basic Credential | `mysqluser` |  |
 | Ubuntu Node | Linux/Unix Node | `ubuntunode` |  |
+| Ubuntu Sudo User | Linux/Unix Credential | `ubuntusudouser` |  |
 | Ubuntu User | Linux/Unix Credential | `ubuntuuser` |  |
 
 

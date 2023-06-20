@@ -4,8 +4,8 @@
     "interpreter": 1, 
     "key": "testmysqlandcheckversion", 
     "name": "Test MySQL and Check Version", 
-    "osCredKey": "ubuntuuser", 
-    "promptResponses": "Enter password:==={mysqlUser.pw}", 
+    "osCredKey": "ubuntusudouser", 
+    "promptResponses": "Enter password:==={mysqlUser.password}", 
     "serverKey": "ubuntunode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"

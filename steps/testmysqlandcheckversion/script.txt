@@ -1,1 +1,1 @@
-sudo mysqladmin -p -u '{mysqlUser.user}' version
+mysqladmin -p -u '{mysqlUser.user}' version

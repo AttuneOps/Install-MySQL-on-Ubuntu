@@ -4,8 +4,8 @@
     "interpreter": 1, 
     "key": "runthemysqlsecurityscript", 
     "name": "Run the MySQL Security Script", 
-    "osCredKey": "ubuntuuser", 
-    "promptResponses": "Enter password for user root:==={mysqlRootUser.pw}\nVALIDATE PASSWORD component?===y\nThere are three levels of password validation policy:===2\nChange the password for root ?===n\nRemove anonymous users?===y\nDisable root login remotely?===y\nRemove test database and access to it?===y\nReload privilege tables now?===y", 
+    "osCredKey": "ubuntusudouser", 
+    "promptResponses": "Enter password for user root:==={mysqlRootUser.password}\nVALIDATE PASSWORD component?===y\nThere are three levels of password validation policy:===2\nChange the password for root ? ((Press y|Y for Yes, any other key for No) :===n\nRemove anonymous users? (Press y|Y for Yes, any other key for No) :===y\nDisallow root login remotely? (Press y|Y for Yes, any other key for No) :===y\nDisable root login remotely? (Press y|Y for Yes, any other key for No) :===y\nRemove test database and access to it? (Press y|Y for Yes, any other key for No) :===y\nReload privilege tables now? (Press y|Y for Yes, any other key for No) :===y", 
     "serverKey": "ubuntunode", 
     "successExitCode": 0, 
     "type": "com.servertribe.attune.tuples.StepSshPromptedTuple"
